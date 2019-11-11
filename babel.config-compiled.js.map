@@ -1,0 +1,1 @@
+{"version":3,"sources":["babel.config.js"],"names":[],"mappings":"AAAA,OAAO,OAAP,GAAiB;AACf,WAAS,CACP,8BADO;AADM,CAAjB","file":"babel.config-compiled.js","sourcesContent":["module.exports = {\n  presets: [\n    '@vue/cli-plugin-babel/preset'\n  ]\n}\n"]}
