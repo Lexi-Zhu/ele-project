@@ -8,7 +8,7 @@ const routes = [];
 const router = new VueRouter({
   routes
 });
-
+me;
 export default router;
 
 //# sourceMappingURL=index-compiled.js.map
