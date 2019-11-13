@@ -7,7 +7,9 @@ import moduleA from "./modules/moduleA";
 
 Vue.use(Vuex);
 
-const state = {};
+const state = {
+  token: ''
+};
 
 export default new Vuex.Store({
   state,

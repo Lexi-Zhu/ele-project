@@ -7,10 +7,11 @@ import 'element-ui/lib/theme-chalk/index.css';
 import api from './api'
 import Axios from 'axios'
 
-Vue.config.productionTip = false
+// Axios.defaults.baseURL = "http://172.16.2.25";
+Vue.config.productionTip = false;
 Vue.prototype.$api = api
 Vue.prototype.$axios = Axios
-Axios.defaults.baseURL = ""
+
 Vue.use(ElementUI)
 
 

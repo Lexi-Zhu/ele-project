@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"user-compiled.js"}
+{"version":3,"sources":["user.js"],"names":[],"mappings":"AAAA,eAAe;AACX,eAAW;;AADA,CAAf","file":"user-compiled.js","sourcesContent":["export default {\r\n    UserLogin: \"/login\"\r\n\r\n}"]}
